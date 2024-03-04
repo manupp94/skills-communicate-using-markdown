@@ -1,11 +1,11 @@
-# Starting up
+##### Starting up
 
 
-# Communicate using Markdown
+## Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-# Let's start
+# Let's start!
 
 
 ### Step 1: Add headers
@@ -38,7 +38,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 
-### :keyboard: Activity: Edit your file with headers
+### :keyboard: Exercise
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
